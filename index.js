@@ -9,11 +9,7 @@
 	@ Ferdi
 	@ DikaArdnt [author]
 	@ Mhankbarbar
-	@ Nurutomo
-	@ Rashid
-	@ ZeeoneOfc
-	@ Penyedia Module
-	@ And All Support
+
 **/
 
 
