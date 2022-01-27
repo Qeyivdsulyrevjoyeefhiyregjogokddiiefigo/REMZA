@@ -421,7 +421,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 					})
 					break
-case 'stikerin':case 's': case 'sticker': case 'stiker': {
+case 'stikerinn':case 's': case 'sticker': case 'stiker': {
 if (!quoted) return reply(`Kirim/Reply Gambar/Video Dengan Caption ${prefix + command}\n\nDurasi Sticker Video 1-9 Detik☕`)
 if (/image/.test(mime)) {
 let media = await quoted.download()
